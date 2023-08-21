@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 cost_means = np.array([5.34, 7.29, 6.55, 2.77, 0.11, 0.35, 0.30, 0.75, 3.22, 0.11])
 utility_means = np.array([0.33, 0.20, -0.12, 0.0035, 0.0000035, 0.27, 0.10, -0.17, 0.0050, -0.00003])  # Asegúrate de que sean estrictamente positivos
 
-
 # Assumed coefficient of variation (CV).
 cv = 1
 
